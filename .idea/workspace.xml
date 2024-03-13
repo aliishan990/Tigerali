@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19a09899-a763-4119-aeaa-2ca3d18a21d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Testapp/Orange_HRM.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2XHs1LLsfvpCF66a0qyLeyLliKE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Dell/Desktop/New folder/Front_end_testing/Seleni_test/src/test/Testapp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/Desktop/New folder/Front_end_testing/Seleni_test/src/test/Sel_test/Testing_web&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/Desktop/New folder/Front_end_testing/Seleni_test/src/main/java/org/ishan/code/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Desktop\New folder\Front_end_testing\Seleni_test\src\test\Sel_test\Testing_web" />
+      <recent name="C:\Users\Dell\Desktop\New folder\Front_end_testing\Seleni_test\src\test\Testapp\Trail_app" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dieHard" />
+      <recent name="Trail_app" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Date_sele.launch">
+    <configuration name="Brucess" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleni_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dieHard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dieHard" />
+      <option name="MAIN_CLASS_NAME" value="dieHard.Brucess" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Brucess.launch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleni_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dieHard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dieHard" />
+      <option name="MAIN_CLASS_NAME" value="dieHard.Brucess" />
+      <option name="METHOD_NAME" value="launch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Date_sele.launch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleni_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dieHard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dieHard" />
+      <option name="MAIN_CLASS_NAME" value="dieHard.Date_sele" />
+      <option name="METHOD_NAME" value="launch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Navi_multi.multiWind" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleni_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sel_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Sel_testing" />
+      <option name="MAIN_CLASS_NAME" value="Sel_testing.Navi_multi" />
+      <option name="METHOD_NAME" value="multiWind" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Navi_sel.navigate" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleni_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sel_testing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Sel_testing" />
+      <option name="MAIN_CLASS_NAME" value="Sel_testing.Navi_sel" />
+      <option name="METHOD_NAME" value="navigate" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Date_sele.launch" />
+        <item itemvalue="TestNG.Brucess.launch" />
+        <item itemvalue="TestNG.Brucess" />
+        <item itemvalue="TestNG.Navi_multi.multiWind" />
+        <item itemvalue="TestNG.Navi_sel.navigate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19a09899-a763-4119-aeaa-2ca3d18a21d4" name="Changes" comment="" />
+      <created>1698297124022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698297124022</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Till_die/hard2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Till_die/hard2.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Sel_testing/country_list.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Sel_testing/country_list.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Sel_testing/country_list.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Sel_testing/Navi_sel.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Sel_testing/Navi_sel.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Sel_testing/Navi_sel.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Testapp/Sel_testing/Navi_sel.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
