@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    
+    <groups>
+        <run>
+            <include name="ishan"/>
+        </run>
+    </groups>
+    <test verbose="2" preserve-order="true" name="C:/Users/Dell/Desktop/New folder/Front_end_testing/Seleni_test">
+        <classes>
+            <!--<class name="Trail_app.Orange_HRM"/> -->
+            <class name="Trail_app.Runner_class">
+<!--                <methods>-->
+<!--                    <include name="run_HRM"/>-->
+<!--                    <include name="run_qual"/>-->
+<!--                    <exclude name="run_more"/>-->
+<!--                </methods>-->
+
+            </class>
+
+            
+        </classes>
+    </test>
+</suite>
